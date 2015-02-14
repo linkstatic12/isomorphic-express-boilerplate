@@ -22,11 +22,15 @@
     "lib": "lib"
   },
   "dependencies": {
+    "body-parser": "^1.11.0",
     "bunyan-request-logger": "^0.2.5",
     "connect-cache-control": "^1.0.0",
     "duplex": "^1.0.0",
     "ejs": "^2.2.4",
     "express": "^4.11.2",
+    "formidable": "^1.0.17",
+    "fs-extra": "^0.16.3",
+    "mongodb": ">= 0.9.6-7",
     "page": "^1.6.0",
     "qconf": "^2.2.0",
     "rootrequire": "^1.0.0",
