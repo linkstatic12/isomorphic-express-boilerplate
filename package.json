@@ -25,6 +25,7 @@
     "bunyan-request-logger": "^0.2.5",
     "connect-cache-control": "^1.0.0",
     "duplex": "^1.0.0",
+    "ejs": "^2.2.4",
     "express": "^4.11.2",
     "page": "^1.6.0",
     "qconf": "^2.2.0",
